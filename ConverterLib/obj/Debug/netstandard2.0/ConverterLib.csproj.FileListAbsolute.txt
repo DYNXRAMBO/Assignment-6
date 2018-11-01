@@ -1,0 +1,9 @@
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.csprojAssemblyReference.cache
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.AssemblyInfoInputs.cache
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.AssemblyInfo.cs
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\bin\Debug\netstandard2.0\ConverterLib.deps.json
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\bin\Debug\netstandard2.0\ConverterLib.dll
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\bin\Debug\netstandard2.0\ConverterLib.pdb
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.dll
+C:\Users\mbm-m\Desktop\Assignment 6\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.pdb
